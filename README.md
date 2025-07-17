@@ -41,9 +41,6 @@
   - Автоматизация на Java (UI, API, Unit-тесты)
   - Примеры SQL-запросов
 
-### Статистика
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eddylasvegas&show_icons=true&bg_color=00000000)
-
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:edgamidov@gmail.com)
