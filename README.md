@@ -13,7 +13,7 @@
 - Получил практический опыт в:
   - Ручном тестировании веб и мобильных приложений
   - Работе с API (Postman, Swagger, Charles)
-  - Написании автотестов на Java (JUnit, Selenide, RestAssured)
+  - Написании автотестов на Java (JUnit, RestAssured)
   - SQL-запросах (PostgreSQL)
   - Использовании DevTools для диагностики
 
@@ -23,7 +23,6 @@
   <img src="icons/IntelliJ_IDEA.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
   <img src="icons/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
   <img src="icons/JUnit.png" title="JUnit" alt="JUnit" width="50" height="50"/>
-  <img src="icons/Selenide.png" title="Selenide" alt="Selenide" width="50" height="50"/>
   <img src="icons/RestAssured.png" title="RestAssured" alt="RestAssured" width="50" height="50"/>
   <img src="icons/AllureReports.png" title="Allure" alt="Allure Report" width="50" height="50"/>
   <img src="icons/YouTrack.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
