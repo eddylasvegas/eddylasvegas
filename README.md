@@ -17,7 +17,7 @@
   - SQL-запросах (PostgreSQL)
   - Использовании DevTools для диагностики
 
-### Технологии и инструменты
+### Стэк 
 <div align="center">
   <img src="icons/Java_logo.png" title="Java" alt="Java" width="50" height="50"/>
   <img src="icons/IntelliJ_IDEA.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
