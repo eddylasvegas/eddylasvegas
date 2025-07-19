@@ -1,31 +1,47 @@
 <h1 align="center">Привет, я Эльдар 👋</h1>
+<h3 align="center">QA Engineer | Специалист по ручному и автоматизированному тестированию</h3>
 
-### 🧑‍💻 Обо мне
-Я QA Engineer с опытом в ручном и автоматизированном тестировании.
+### Обо мне
+Я QA Engineer с опытом в ручном и автоматизированном тестировании. Специализируюсь на:
+- Комплексном тестировании (функциональное, API, UI)
+- Разработке тестовой документации (чек-листы, тест-кейсы, баг-репорты)
+- Автоматизации тестирования на Java
 
-### 🛠 Технологии и инструменты
+### Образование
+**Яндекс Практикум** | Инженер по тестированию: от новичка до автоматизатора (сентябрь 2024 - июнь 2025)
+- Освоил полный цикл тестирования ПО от анализа требований до автоматизации
+- Получил практический опыт в:
+  - Ручном тестировании веб и мобильных приложений
+  - Работе с API (Postman, Swagger, Charles)
+  - Написании автотестов на Java (JUnit, RestAssured)
+  - SQL-запросах (PostgreSQL)
+  - Использовании DevTools для диагностики
+
+### Технологии и инструменты
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit" alt="JUnit" width="50" height="50"/>
-  <img src="https://selenide.org/images/selenide-logo-big.png" title="Selenide" alt="Selenide" width="50" height="50"/>
-  <img src="https://rest-assured.io/img/logo-transparent.png" title="RestAssured" alt="RestAssured" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" alt="Allure" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/charlesproxy/charlesproxy-icon.svg" title="Charles" alt="Charles" width="50" height="50"/>
+  <img src="icons/Java_logo.png" title="Java" alt="Java" width="50" height="50"/>
+  <img src="icons/IntelliJ_IDEA.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
+  <img src="icons/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="icons/JUnit.png" title="JUnit" alt="JUnit" width="50" height="50"/>
+  <img src="icons/RestAssured.png" title="RestAssured" alt="RestAssured" width="50" height="50"/>
+  <img src="icons/AllureReports.png" title="Allure" alt="Allure Report" width="50" height="50"/>
+  <img src="icons/YouTrack.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
+  <img src="icons/Figma.png" title="Figma" alt="Figma" width="50" height="50"/>
+  <img src="icons/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
+  <img src="icons/DevTools.png" title="DevTools" alt="DevTools" width="50" height="50"/>
+  <img src="icons/AndroidStudio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
+  <img src="icons/Charles.png" title="Charles Proxy" alt="Charles" width="50" height="50"/>
 </div>
 
-### 📂 # Мое портфолии проектов
-- [Portfolio GitHub](https://github.com/eddylasvegas/eddylasvegas.github.io) - портфлоио с проектами по ручному тестированию и автоматизации на java
+### Портфолио проектов
+- [Portfolio GitHub](https://github.com/eddylasvegas/eddylasvegas.github.io) - сборник учебных и практических проектов
+  - Ручное тестирование (чек-листы, тест-кейсы, баг-репорты)
+  - Автоматизация на Java (UI, API, Unit-тесты)
+  - Примеры SQL-запросов
+ 
+### Диплом
+![Screenshot](https://github.com/eddylasvegas/Diplom_Gamidov_Rus.jpg)
 
-### 📊 Статистика
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eddylasvegas&show_icons=true&bg_color=00000000)
-
-### 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:edgamidov@gmail.com)
+### Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas "Telegram: @eddylasvegas")
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:edgamidov@gmail.com "Email: edgamidov@gmail.com")
