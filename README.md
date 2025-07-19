@@ -41,5 +41,5 @@
   - Примеры SQL-запросов
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:edgamidov@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas "Telegram: @eddylasvegas")
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:edgamidov@gmail.com "Email: edgamidov@gmail.com")
