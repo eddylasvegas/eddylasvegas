@@ -40,7 +40,7 @@
   - Примеры SQL-запросов
  
 ### Диплом
-![Screenshot](https://github.com/eddylasvegas/Diplom_Gamidov_Rus.jpg)
+![Screenshot](https://github.com/eddylasvegas/eddylasvegas/blob/main/Diplom_Gamidov_Rus.jpg)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas "Telegram: @eddylasvegas")
