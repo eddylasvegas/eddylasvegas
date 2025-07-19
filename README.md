@@ -38,6 +38,9 @@
   - Ручное тестирование (чек-листы, тест-кейсы, баг-репорты)
   - Автоматизация на Java (UI, API, Unit-тесты)
   - Примеры SQL-запросов
+ 
+### Диплом
+![Screenshot](https://github.com/eddylasvegas/Diplom_Gamidov_Rus.jpg)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas "Telegram: @eddylasvegas")
