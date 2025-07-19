@@ -25,7 +25,6 @@
   <img src="icons/JUnit.png" title="JUnit" alt="JUnit" width="50" height="50"/>
   <img src="icons/Selenide.png" title="Selenide" alt="Selenide" width="50" height="50"/>
   <img src="icons/RestAssured.png" title="RestAssured" alt="RestAssured" width="50" height="50"/>
-  <img src="icons/Jenkins.png" title="Jenkins" alt="Jenkins" width="50" height="50"/>
   <img src="icons/AllureReports.png" title="Allure Report" alt="Allure Report" width="50" height="50"/>
   <img src="icons/YouTrack.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
   <img src="icons/Figma.png" title="Figma" alt="Figma" width="50" height="50"/>
