@@ -25,11 +25,11 @@
   <img src="icons/JUnit.png" title="JUnit" alt="JUnit" width="50" height="50"/>
   <img src="icons/Selenide.png" title="Selenide" alt="Selenide" width="50" height="50"/>
   <img src="icons/RestAssured.png" title="RestAssured" alt="RestAssured" width="50" height="50"/>
-  <img src="icons/AllureReports.png" title="Allure Report" alt="Allure Report" width="50" height="50"/>
+  <img src="icons/AllureReports.png" title="Allure" alt="Allure Report" width="50" height="50"/>
   <img src="icons/YouTrack.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
   <img src="icons/Figma.png" title="Figma" alt="Figma" width="50" height="50"/>
   <img src="icons/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="icons/DevTools.png" title="Chrome DevTools" alt="DevTools" width="50" height="50"/>
+  <img src="icons/DevTools.png" title="DevTools" alt="DevTools" width="50" height="50"/>
   <img src="icons/AndroidStudio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="icons/Charles.png" title="Charles Proxy" alt="Charles" width="50" height="50"/>
 </div>
