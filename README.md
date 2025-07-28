@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Специалист по ручному и автоматизированному тестированию</h3>
 
 ### Обо мне
-Я QA Engineer с опытом в ручном и автоматизированном тестировании. Специализируюсь на:
+Я начинающий QA Engineer с опытом в ручном и автоматизированном тестировании. Специализируюсь на:
 - Комплексном тестировании (функциональное, API, UI)
 - Разработке тестовой документации (чек-листы, тест-кейсы, баг-репорты)
 - Автоматизации тестирования на Java
@@ -17,7 +17,7 @@
   - SQL-запросах (PostgreSQL)
   - Использовании DevTools для диагностики
 
-### Технологии и инструменты
+### Стэк 
 <div align="center">
   <img src="icons/Java_logo.png" title="Java" alt="Java" width="50" height="50"/>
   <img src="icons/IntelliJ_IDEA.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
@@ -40,7 +40,7 @@
   - Примеры SQL-запросов
  
 ### Диплом
-![Screenshot](https://github.com/eddylasvegas/Diplom_Gamidov_Rus.jpg)
+![Screenshot](https://github.com/eddylasvegas/eddylasvegas/blob/main/Diplom_Gamidov_Rus.jpg)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/eddylasvegas "Telegram: @eddylasvegas")
