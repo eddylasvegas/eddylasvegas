@@ -30,7 +30,7 @@
   <img src="icons/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
   <img src="icons/DevTools.png" title="DevTools" alt="DevTools" width="50" height="50"/>
   <img src="icons/AndroidStudio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
-  <img src="icons/Charles.png" title="Charles Proxy" alt="Charles" width="50" height="50"/>
+  <img src="icons/Charles1.png" title="Charles" alt="Charles" width="50" height="50"/>
 </div>
 
 ### Портфолио проектов
