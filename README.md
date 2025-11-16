@@ -32,7 +32,7 @@
   <img src="icons/AndroidStudio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="icons/Charles2.png" title="Charles" alt="Charles" width="50" height="50"/>
   <img src="icons/jira.png" title="Jira" alt="Jira" width="50" height="50"/>
-  <img src="icons/docker.png" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="icons/Docker.png" title="Docker" alt="Docker" width="50" height="50"/>
 </div>
 
 ### Портфолио проектов
